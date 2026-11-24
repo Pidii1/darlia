@@ -1,0 +1,12 @@
+{
+  "version": "1.3.0",
+  "notes": [
+    "New name: Darlia",
+    "New home screen, rename photos from the Recent list",
+    "AI erase, cut-out, sky, hair colour and 4x upscale, all on your device",
+    "Print sizes at 300 DPI, Instagram grid, GIF export, mockups",
+    "Lite mode for slower phones"
+  ],
+  "android": "https://github.com/Pidii1/darlia/releases/latest/download/Darlia.apk",
+  "windows": "https://github.com/Pidii1/darlia/releases/latest/download/Darlia-Setup.msi"
+}
